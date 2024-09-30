@@ -7,6 +7,10 @@ export default defineConfig({
     org: "zohaib-hassan-vr",
     project: "javascript-react",
     url: "https://sentry.io/"
+  }), sentryVitePlugin({
+    org: "zohaib-hassan-vr",
+    project: "javascript-react",
+    url: "https://sentry.io/"
   })],
 
   assetsInclude: ['**/*.glb'],
