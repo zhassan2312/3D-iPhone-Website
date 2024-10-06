@@ -18,7 +18,6 @@ const Features = () => {
             scale: 1,
             opacity: 1,
             ease: 'power1',
-            scrub:5.5
 
         }
         ),
