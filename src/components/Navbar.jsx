@@ -1,7 +1,5 @@
 import React from 'react'
-import appleImg from '../assets/images/apple.svg'
-import searchImg from '../assets/images/search.svg'
-import bagImg from '../assets/images/bag.svg'
+import {bagImg,searchImg,appleImg} from '../utils/index.js'
 import {navLists} from '../constants/index.js'
 
 const Navbar = () => {
